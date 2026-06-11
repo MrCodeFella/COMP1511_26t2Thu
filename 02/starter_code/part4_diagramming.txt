@@ -1,0 +1,10 @@
+print("how many days till assignment is due?")
+scan(days)
+
+if (10 < days) {
+    // do somthing
+} else if (7 <= days && days <= 10) {
+    // do something
+} else {
+    // do seomthing
+}
